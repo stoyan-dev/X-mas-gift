@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: rgba(0, 0, 0, 0.4);
-  font-family: "Mountains of Christmas", cursive;
+  font-family: Arial, Helvetica, cursive;
   overflow: hidden;
 }
 html::after,
@@ -50,7 +50,7 @@ canvas {
   user-select: none;
 }
 
-.untoldcoding {
+.best-gift {
   position: absolute;
   top: 27%;
   left: 50%;
@@ -61,7 +61,7 @@ canvas {
   color: white;
   user-select: none;
 }
-.untoldcoding span {
+.best-gift span {
   position: absolute;
   top: -28%;
   left: 36%;
@@ -71,7 +71,7 @@ canvas {
   -webkit-text-fill-color: transparent;
   -webkit-background-clip: text;
 }
-.untoldcoding a {
+.best-gift a {
   font-weight: 800;
   background: linear-gradient(#eb2828, #fd0000);
   -webkit-text-fill-color: transparent;
